@@ -1,0 +1,20 @@
+Hacer:
+
+* Hacer que la informacion de los contadores e informacion extra se almacene en un blog de notas 
+Info extra:
+    - Fecha de creacion del contador
+    - Hora de inicio y finalizacion del programa
+    - Info extra que el usuario quiera agregar
+
+* Programar las funciones extras xD
+
+
+HACER 2:
+    -HACER BARRA PARA INTRODUCIR NOMBRE DEL AUTOR
+    -QUE SI YA HAY UN ARCHIVO GUARDADO CON EL NOMBRE DEL QUE SE VA A CREAR, QUE SE CREE CON OTRO NOMBRE
+    -QUE CUANDO EL USUARIO NO INTRODUZCA INFORMACION CON TECLADO SE GUARDE UN MENSAJE PREDEFINIDO COMO: 'NO SE HA ESPECIFICADO'
+
+
+NO SE COMO SOLUCIONAR EL PROBLEMA DE QUE CUANDO CIERRO EL TOPLEVEL SIN EL BOTON GUARDAR NO FUNCIONA BIEN EL PROGRAMA, ASÍ
+QUE USARÉ UN try PARA SOLUCIONAR EL ERROR
+
